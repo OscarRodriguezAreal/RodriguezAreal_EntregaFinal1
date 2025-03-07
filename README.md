@@ -13,4 +13,4 @@ Hola, este es mi proyecto final: un **blog** que contiene las siguientes funcion
 
 ## Video explicativo
 
-[Video explicativo:]((https://drive.google.com/file/d/1K7iBDYhrtjOXp7T7wBu8nhyk8ChSkGtv/view?usp=sharing))
+[Video explicativo:] https://drive.google.com/file/d/1K7iBDYhrtjOXp7T7wBu8nhyk8ChSkGtv/view?usp=sharing
